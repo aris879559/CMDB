@@ -48,3 +48,8 @@ admin.site.register(models.NIC)
 admin.site.register(models.RAM)
 admin.site.register(models.EventLog)
 admin.site.register(models.NewAssetApprovalZone, NewAssetAdmin)
+
+admin.site.site_header = 'CMDB管理后台'  # 设置header
+admin.site.site_title = 'CMDB管理后台'  # 设置title
+admin.site.index_title = 'CMDB管理后台'
+
