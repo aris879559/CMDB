@@ -1,0 +1,3 @@
+[2023-10-11 14:26:39,127] [views.py:42] [views:dashboard] [INFO]- 用户admin登录首页
+[2023-10-11 14:39:12,710] [views.py:20] [views:index] [INFO]- 用户admin 查看资产总表【index】
+[2023-10-11 14:39:33,304] [views.py:56] [views:detail] [INFO]- 用户admin查看资产详情【detail】

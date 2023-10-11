@@ -1,0 +1,30 @@
+[2023-10-11 14:26:15,223] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-10-11 14:26:39,127] [views.py:42] [views:dashboard] [INFO]- 用户admin登录首页
+[2023-10-11 14:26:39,172] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /assets/dashboard/ HTTP/1.1" 200 23767
+[2023-10-11 14:26:39,261] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/dist/css/skins/skin-blue.min.css HTTP/1.1" 304 0
+[2023-10-11 14:26:39,261] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31004
+[2023-10-11 14:26:39,266] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/jquery/dist/jquery.min.js HTTP/1.1" 304 0
+[2023-10-11 14:26:39,268] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/dist/js/adminlte.min.js HTTP/1.1" 304 0
+[2023-10-11 14:26:39,268] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 121462
+[2023-10-11 14:26:39,270] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 304 0
+[2023-10-11 14:26:39,271] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/Ionicons/css/ionicons.min.css HTTP/1.1" 200 51295
+[2023-10-11 14:26:39,275] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/jquery-knob/js/jquery.knob.js HTTP/1.1" 304 0
+[2023-10-11 14:26:39,276] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/dist/css/AdminLTE.min.css HTTP/1.1" 200 91507
+[2023-10-11 14:26:39,284] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/dist/img/user2-160x160.jpg HTTP/1.1" 304 0
+[2023-10-11 14:26:39,308] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 77160
+[2023-10-11 14:26:39,393] [log.py:241] [log:log_response] [WARNING]- Not Found: /favicon.ico
+[2023-10-11 14:26:39,394] [basehttp.py:81] [basehttp:handle_error] [INFO]- - Broken pipe from ('127.0.0.1', 54481)
+[2023-10-11 14:38:18,183] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\CMDB\assets\views.py changed, reloading.
+[2023-10-11 14:38:19,534] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-10-11 14:39:12,710] [views.py:20] [views:index] [INFO]- 用户admin 查看资产总表【index】
+[2023-10-11 14:39:12,765] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /assets/index/ HTTP/1.1" 200 19201
+[2023-10-11 14:39:12,815] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/datatables.net-bs/css/dataTables.bootstrap.min.css HTTP/1.1" 200 4189
+[2023-10-11 14:39:12,823] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/datatables.net/js/jquery.dataTables.min.js HTTP/1.1" 304 0
+[2023-10-11 14:39:12,825] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/datatables.net-bs/js/dataTables.bootstrap.min.js HTTP/1.1" 304 0
+[2023-10-11 14:39:12,888] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /static/adminlet-2.4.10/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
+[2023-10-11 14:39:33,304] [views.py:56] [views:detail] [INFO]- 用户admin查看资产详情【detail】
+[2023-10-11 14:39:33,332] [basehttp.py:212] [basehttp:log_message] [INFO]- "GET /assets/detail/9/ HTTP/1.1" 200 22272
+[2023-10-11 14:53:43,713] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\CMDB\assets\views.py changed, reloading.
+[2023-10-11 14:53:45,206] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
+[2023-10-11 14:57:48,206] [autoreload.py:266] [autoreload:trigger_reload] [INFO]- D:\git\CMDB\assets\views.py changed, reloading.
+[2023-10-11 14:57:49,555] [autoreload.py:668] [autoreload:run_with_reloader] [INFO]- Watching for file changes with StatReloader
